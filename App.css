@@ -1,0 +1,64 @@
+body {
+  background-color: rgb(210, 210, 245);
+}
+.App {
+  text-align: center;
+}
+.container {
+  background-color: rgb(4, 4, 84);
+  padding: 5px;
+  margin: 30px auto;
+  height: 25vh;
+  width: 45vw;
+  text-align: center;
+}
+.header {
+  color: white;
+  font-size: 50px;
+  font-weight: bolder;
+}
+input {
+  width: 30vw;
+  height: 4vh;
+  margin-top: 30px;
+  font-size: 20px;
+}
+button {
+  font-size: 10px;
+  padding: 15px;
+  margin: 4px;
+  height: 4.5vh;
+  width: 4vw;
+  border-radius: 3px;
+  background-color: rgb(88, 206, 88);
+  color: black;
+  font-size: 15px;
+  font-weight: bold;
+}
+.ListHead {
+  background-color: rgb(228, 180, 180);
+  height: 39px;
+  width: 20vw;
+  font-size: 28px;
+  padding: 8px;
+}
+.listData {
+  font-size: 25px;
+  background-color: rgb(62, 188, 197);
+  height: 6vh;
+  color: black;
+  padding-left: 5px;
+  text-align: left;
+  border-radius: 10px;
+}
+.btn2 {
+  background-color: rgb(229, 99, 99);
+  padding: 20px;
+  width: 10vh;
+  display: flex;
+  margin: auto;
+  font-size: 20px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
